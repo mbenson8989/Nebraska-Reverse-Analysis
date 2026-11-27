@@ -1,6 +1,6 @@
-# Nebraska Reverse Analysis (PRIVATE)
+# Nebraska Reverse Analysis
 
-> **\*All 2026 figures are UNOFFICIAL.** Nebraska Secretary of State (SOS) results site, "Unofficial Results," county data re-downloaded Nov 27, 2026 10:21–10:24 AM CT (1,322 of 1,322 precincts; 779,787 ballots cast). The State Board of Canvassers meets Nov 30, 2026 at 11:30 AM CT; numbers can still change. Registration: SOS VR Statistics Count Report processed Nov 1, 2026. **Treating the removed votes as injected votes is the analyst's hypothesis.** The arithmetic measures a pattern. It cannot test cause, and nothing here is proof of wrongdoing. PRIVATE working copy: not for publication.
+> **\*All 2026 figures are UNOFFICIAL.** Nebraska Secretary of State (SOS) results site, "Unofficial Results," county data re-downloaded Nov 27, 2026 10:21–10:24 AM CT (1,322 of 1,322 precincts; 779,787 ballots cast). The State Board of Canvassers meets Nov 30, 2026 at 11:30 AM CT; numbers can still change. Registration: SOS VR Statistics Count Report processed Nov 1, 2026. **Treating the removed votes as injected votes is the analyst's hypothesis.** The arithmetic measures a pattern. It cannot test cause, and nothing here is proof of wrongdoing.
 
 The full Kansas-style reverse-factoring reversal for Nebraska's 2026\* statewide races, all 93 counties, built the same way as the Texas reversal.
 

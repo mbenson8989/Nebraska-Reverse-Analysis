@@ -17,7 +17,7 @@ DROP={'Buffalo':-405,'Clay':-5,'Hooker':-1,'Phelps':-6}
 NOTE=('> **\\*All 2026 figures are UNOFFICIAL.** Nebraska Secretary of State (SOS) results site, "Unofficial Results," county data re-downloaded Nov 27, 2026 10:21–10:24 AM CT '
       '(1,322 of 1,322 precincts; 779,787 ballots cast). The State Board of Canvassers meets Nov 30, 2026 at 11:30 AM CT; numbers can still change. '
       'Registration: SOS VR Statistics Count Report processed Nov 1, 2026. **Treating the removed votes as injected votes is the analyst\'s hypothesis.** '
-      'The arithmetic measures a pattern. It cannot test cause, and nothing here is proof of wrongdoing. PRIVATE working copy: not for publication.')
+      'The arithmetic measures a pattern. It cannot test cause, and nothing here is proof of wrongdoing.')
 def write(name,txt): open(W+name+'.md','w').write(txt.rstrip()+'\n')
 # ---------- master CSVs + per-race county pages
 for slug,(lab,page,dl,rl,dfull,rfull) in SLUG.items():
@@ -255,7 +255,7 @@ Per-county figures: [data/NE_party_registration_change_2022_2026.csv](../data/NE
 write('Analyst-Notes-Hypotheses-and-Observations',AN)
 REG.to_csv(RP+'data/NE_party_registration_change_2022_2026.csv',float_format='%.6f')
 # ---------- home + sidebar
-HM=f'''# Nebraska Reverse Analysis (PRIVATE)
+HM=f'''# Nebraska Reverse Analysis
 
 {NOTE}
 

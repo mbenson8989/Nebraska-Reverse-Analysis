@@ -1,6 +1,6 @@
 # Analyst Notes: Hypotheses and Observations
 
-> **\*All 2026 figures are UNOFFICIAL.** Nebraska Secretary of State (SOS) results site, "Unofficial Results," county data re-downloaded Nov 27, 2026 10:21–10:24 AM CT (1,322 of 1,322 precincts; 779,787 ballots cast). The State Board of Canvassers meets Nov 30, 2026 at 11:30 AM CT; numbers can still change. Registration: SOS VR Statistics Count Report processed Nov 1, 2026. **Treating the removed votes as injected votes is the analyst's hypothesis.** The arithmetic measures a pattern. It cannot test cause, and nothing here is proof of wrongdoing. PRIVATE working copy: not for publication.
+> **\*All 2026 figures are UNOFFICIAL.** Nebraska Secretary of State (SOS) results site, "Unofficial Results," county data re-downloaded Nov 27, 2026 10:21–10:24 AM CT (1,322 of 1,322 precincts; 779,787 ballots cast). The State Board of Canvassers meets Nov 30, 2026 at 11:30 AM CT; numbers can still change. Registration: SOS VR Statistics Count Report processed Nov 1, 2026. **Treating the removed votes as injected votes is the analyst's hypothesis.** The arithmetic measures a pattern. It cannot test cause, and nothing here is proof of wrongdoing.
 
 > **Every item on this page is a HYPOTHESIS or an OBSERVATION, not a proven fact.** The Cedar County Cast Vote Record (CVR) has been requested and has not been produced, so none of these can be tested at the ballot level. All remain unverified pending CVR access. Data added under each item was checked in both verification passes (0 mismatches).
 
