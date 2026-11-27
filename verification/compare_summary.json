@@ -1,0 +1,58 @@
+{
+ "races": {
+  "senate": {
+   "county_cells": 1395,
+   "county_mismatches": 0,
+   "summary_checks": 13,
+   "summary_mismatches": 0,
+   "sos_statewide_checks": "county sums = SOS statewide CSV for every candidate party (asserted in pass B)"
+  },
+  "governor": {
+   "county_cells": 1395,
+   "county_mismatches": 0,
+   "summary_checks": 13,
+   "summary_mismatches": 0,
+   "sos_statewide_checks": "county sums = SOS statewide CSV for every candidate party (asserted in pass B)"
+  },
+  "secretary_of_state": {
+   "county_cells": 1395,
+   "county_mismatches": 0,
+   "summary_checks": 13,
+   "summary_mismatches": 0,
+   "sos_statewide_checks": "county sums = SOS statewide CSV for every candidate party (asserted in pass B)"
+  },
+  "treasurer": {
+   "county_cells": 1395,
+   "county_mismatches": 0,
+   "summary_checks": 13,
+   "summary_mismatches": 0,
+   "sos_statewide_checks": "county sums = SOS statewide CSV for every candidate party (asserted in pass B)"
+  },
+  "attorney_general": {
+   "county_cells": 1395,
+   "county_mismatches": 0,
+   "summary_checks": 13,
+   "summary_mismatches": 0,
+   "sos_statewide_checks": "county sums = SOS statewide CSV for every candidate party (asserted in pass B)"
+  }
+ },
+ "history": {
+  "checks": 20,
+  "mismatches": 0
+ },
+ "notes": {
+  "checks": 404,
+  "mismatches": 0
+ },
+ "total_checks": 7546,
+ "total_mismatches": 0,
+ "mismatch_log": [],
+ "extra": {
+  "checks": 22,
+  "mismatches": 0
+ },
+ "extra2": {
+  "checks": 60,
+  "mismatches": 0
+ }
+}
